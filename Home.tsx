@@ -27,12 +27,12 @@ export default function Home() {
           <div className="animate-fade-in-up">
             <h2 className="text-primary font-serif text-xl md:text-2xl mb-4 tracking-widest uppercase">Premium Aion2 Proxy Service</h2>
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-serif font-bold text-white mb-6 tracking-tight leading-tight">
-              압도적인 전문성으로 <br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-600 via-red-500 to-orange-500">어비스팀</span>
+              당신의 시간을 가치 있게, <br />
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-600 via-red-500 to-orange-500">프리미엄 게임 케어 솔루션 어비스팀</span>
             </h1>
             <p className="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto mb-10 font-light">
-              오랜 노하우와 검증된 시스템으로 안전하고 신뢰할 수 있는<br className="hidden md:block" /> 
-              최고의 어비스팀 서비스를 제공합니다.
+              압도적인 기술력과 철저한 보안 시스템으로 증명하는<br className="hidden md:block" /> 
+              최상위 부주 서비스를 경험하세요.
             </p>
             
             <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
@@ -61,10 +61,10 @@ export default function Home() {
       <section className="py-24 bg-background relative overflow-hidden">
         <div className="container mx-auto px-4 text-center">
           <div className="max-w-3xl mx-auto mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">압도적인 전문성, 어비스팀</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">어비스팀, 당신의 게임 라이프를 한 단계 업그레이드</h2>
             <p className="text-muted-foreground text-lg">
-              어비스팀은 다년간의 운영 노하우를 바탕으로 압도적인 전문성과 신뢰를 최우선으로 하는<br />
-              프리미엄 부주 전문 서비스입니다.
+              어비스팀은 다년간의 프리미엄 부주 노하우와 압도적인 전문성을 바탕으로<br />
+              고객님의 소중한 시간을 더욱 가치 있게 만들어 드립니다.
             </p>
           </div>
           
@@ -91,10 +91,12 @@ export default function Home() {
               <span className="text-primary font-bold tracking-wider text-sm uppercase mb-2 block">Trusted</span>
               <h2 className="text-3xl md:text-5xl font-bold text-white mb-6 leading-tight">
                 어비스팀,<br />
-                <span className="text-blue-400">압도적인 전문성</span>으로 함께하는 파트너
+                <span className="text-blue-400">최고의 경험</span>을 선사하는 파트너
               </h2>
               <p className="text-muted-foreground text-lg mb-8 leading-relaxed">
-                어비스팀은 계정 보안을 최우선으로, 투명한 진행 상황 공유와 책임감 있는 작업을 약속드립니다. 어비스팀 상담부터 작업 완료까지 모든 과정은 기록과 증빙을 기반으로 진행됩니다.
+                어비스팀은 고객님의 계정 보안을 최우선으로, 모든 작업 과정을 투명하게 공유하며<br />
+                책임감 있는 프리미엄 서비스를 약속드립니다. 상담부터 작업 완료까지 모든 과정은<br />
+                기록과 증빙을 기반으로 진행되어 안심하고 맡기실 수 있습니다.
               </p>
               
               <ul className="space-y-4 mb-8">
@@ -130,7 +132,7 @@ export default function Home() {
               <div className="absolute -inset-4 bg-cyan-500/20 rounded-full blur-3xl opacity-30"></div>
               <img 
                 src="/images/security-illustration.jpg" 
-                alt="어비스팀 보안 시스템" 
+                alt="어비스팀의 철저한 보안 시스템" 
                 className="relative z-10 w-full rounded-2xl shadow-2xl border border-white/10 hover:translate-y-[-10px] transition-transform duration-500"
               />
             </div>
@@ -138,10 +140,12 @@ export default function Home() {
               <span className="text-primary font-bold tracking-wider text-sm uppercase mb-2 block">Safe</span>
               <h2 className="text-3xl md:text-5xl font-bold text-white mb-6 leading-tight">
                 안정적인<br />
-                <span className="text-cyan-400">어비스팀 보안</span> 관리
+                <span className="text-cyan-400">최상위 보안</span> 관리
               </h2>
               <p className="text-muted-foreground text-lg mb-8 leading-relaxed">
-                고객님의 소중한 계정을 타인과 공유하는 만큼, IP 접속환경 관리와 보안 수칙을 철저히 준수합니다. 어비스팀 작업 시 불필요한 접속 시도나 위험 요소를 사전에 차단하여 안전한 플레이 환경을 보장합니다.
+                고객님의 소중한 계정을 보호하기 위해 IP 접속 환경 관리와 보안 수칙을 철저히 준수합니다.<br />
+                어비스팀 작업 시 발생할 수 있는 모든 위험 요소를 사전에 차단하여<br />
+                안전하고 쾌적한 플레이 환경을 보장합니다.
               </p>
               <Button variant="outline" className="border-cyan-500/50 text-cyan-400 hover:bg-cyan-950/30">
                 보안 정책 자세히 보기
@@ -159,10 +163,11 @@ export default function Home() {
               <span className="text-primary font-bold tracking-wider text-sm uppercase mb-2 block">Live</span>
               <h2 className="text-3xl md:text-5xl font-bold text-white mb-6 leading-tight">
                 실시간 작업 현황<br />
-                <span className="text-indigo-400">어비스팀 소통</span>
+                <span className="text-indigo-400">투명한 소통</span>
               </h2>
               <p className="text-muted-foreground text-lg mb-8 leading-relaxed">
-                어비스팀 작업 진행 상황은 공지 및 작업현황 메뉴에서 확인하실 수 있으며, 어비스팀 관련 문의는 카카오톡 오픈채팅으로 편리하게 소통하실 수 있습니다.
+                어비스팀의 모든 작업 진행 상황은 공지 및 작업 현황 메뉴에서 실시간으로 확인 가능하며,<br />
+                궁금한 점은 카카오톡 오픈채팅을 통해 언제든지 편리하게 소통하실 수 있습니다.
               </p>
               <Button className="bg-indigo-600 hover:bg-indigo-700 text-white">
                 실시간 현황 확인하기
@@ -227,15 +232,15 @@ export default function Home() {
       <section className="py-16 bg-black/30 border-t border-white/5">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-3">어비스팀 선택의 이유</h2>
-            <p className="text-muted-foreground text-lg">압도적인 전문성, 어비스팀 서비스의 표준</p>
+            <h2 className="text-3xl md:text-4xl font-bold text-white mb-3">왜 어비스팀을 선택해야 할까요?</h2>
+            <p className="text-muted-foreground text-lg">프리미엄 게임 케어, 어비스팀이 제시하는 새로운 표준</p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
             {[
-              { icon: <Shield className="w-8 h-8 text-primary" />, title: "신뢰와 안전", desc: "어비스팀 작업 시 계정 보안을 최우선으로 하며 투명하게 진행합니다." },
-              { icon: <Clock className="w-8 h-8 text-primary" />, title: "24시간 운영", desc: "언제든지 어비스팀 상담 가능하며 실시간 현황을 공유합니다." },
-              { icon: <Award className="w-8 h-8 text-primary" />, title: "전문 기사", desc: "어비스팀 경험이 풍부한 전문 기사가 최고의 서비스를 제공합니다." }
+              { icon: <Shield className="w-8 h-8 text-primary" />, title: "신뢰와 안전", desc: "최상위 보안 시스템으로 고객님의 계정을 완벽하게 보호하며, 모든 작업 과정을 투명하게 공개합니다." },
+              { icon: <Clock className="w-8 h-8 text-primary" />, title: "24시간 운영", desc: "24시간 언제든지 전문 상담이 가능하며, 실시간 작업 현황을 공유하여 답답함 없이 소통합니다." },
+              { icon: <Award className="w-8 h-8 text-primary" />, title: "전문 기사", desc: "다년간의 경험과 노하우를 갖춘 전문 기사가 최고의 프리미엄 서비스를 제공하여 만족도를 높입니다." }
             ].map((item, i) => (
               <div key={i} className="bg-white/5 p-8 rounded-xl border border-white/10 hover:bg-white/10 transition-colors flex flex-col items-start">
                 <div className="mb-4 p-3 bg-primary/20 rounded-lg">
